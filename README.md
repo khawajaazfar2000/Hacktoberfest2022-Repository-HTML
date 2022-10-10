@@ -31,11 +31,7 @@ If this happens then you will not get any swags or t-shirt.
 
 ## ❗ Contribution Rules :
 
-   * **You can Solve any Leetcode problem in any programming languages in the related Folder's,If language folder not exist then first create it and add your code in it but your program must be unique.**
-   * **The pull requests must contain commits made by yourself.**
-   * **The Commit message must contain Leetcode problem number**
-   * **Repeated codes will not be merged.**
- <br>
+  
 
 ## 🌎 Steps to contribute:
 1. (Optional) If git is not install in your Laptop/PC:
