@@ -100,7 +100,7 @@ Now add this follwing code snippet. (with your github username where required)
 - Step 3: Change the background Color of the webpage
 
 ```bash
-Open the style.css file and find the mark to this code snippet and change the color.
+Open the style.css file and than find the mark to this code snippet and change the color.
 ```
 
 ```bash
