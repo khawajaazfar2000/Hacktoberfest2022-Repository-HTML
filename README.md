@@ -179,7 +179,7 @@ Now add this follwing code snippet (with your github username where required.) a
 </td>
 
 <!-- Add your snippet here -->
-    <td align="center">
+<td align="center">
 <a href="https://github.com/lsgdefault">
     <img src="https://i.postimg.cc/sXyzfwVW/white-20220814-140433.jpg" width="100px;" alt=""/>
     <br />
@@ -189,7 +189,6 @@ Now add this follwing code snippet (with your github username where required.) a
         </b>
     </sub>
 </td>
-
 </tr>
 
 </table>
