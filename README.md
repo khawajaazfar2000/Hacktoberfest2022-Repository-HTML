@@ -159,17 +159,12 @@ Now add this follwing code snippet (with your github username where required.) a
 
 <table>
     <tr>
-        <td align="center"><a href="https://github.com/khawajaazfar2000">
-        <img src="https://avatars.githubusercontent.com/u/73386961?v=4" width="100px;" alt=""/>
-        <br />
-        <sub>
-        <b>Khawaja Azfar</b>
-        </sub>
-        </td>
-        
-
-
-
+        <td align="center">
+           <a href="https://github.com/khawajaazfar2000">
+           <img src="https://avatars.githubusercontent.com/u/73386961?v=4" width="100px;" alt=""/>
+         <br />
+        <sub> <b>Khawaja Azfar</b> </sub>
+     </td>    
 
 
 <td align="center">
