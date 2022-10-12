@@ -7,7 +7,6 @@
 <h1 align="center"> Hacktoberfest 2022 🎉</h1>
 
 # Note
-# Note
 ```py
 '''
 Always try to make more then 4 pull requests.
