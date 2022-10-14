@@ -19,17 +19,17 @@ If this happens then you will not get any swags or t-shirt.
 ```
 
 ### 🗣 https://hacktoberfest2022-github.netlify.app/ 🔥.
+
 📢 **This repository is deployed and and after you request will be merged you can see it from above link **
 
 <br>
 
-## ⏳ Steps to Follow : 
+## ⏳ Steps to Follow :
 
-   - [X] **Register for [Hacktoberfest](https://hacktoberfest.digitalocean.com/) and get started to make your first PR.**
-   - [X] **Make 4 valid PRs during the period of (1st - 31st) October to earn cool swags.**
+- [x] **Register for [Hacktoberfest](https://hacktoberfest.digitalocean.com/) and get started to make your first PR.**
+- [x] **Make 4 valid PRs during the period of (1st - 31st) October to earn cool swags.**
 
  <br>
-
 
 `Add your card to the website. Or add a fun feature...`
 `Anything you feel is cool or weird - Add it! 👌`
@@ -165,8 +165,7 @@ Now add this follwing code snippet (with your github username where required.) a
            <img src="https://avatars.githubusercontent.com/u/73386961?v=4" width="100px;" alt=""/>
          <br />
         <sub> <b>Khawaja Azfar</b> </sub>
-     </td>    
-
+     </td>
 
 <td align="center">
 <a href="https://github.com/muji-asif">
@@ -209,6 +208,17 @@ Now add this follwing code snippet (with your github username where required.) a
     <sub>
         <b>
             Parag Agrawal
+        </b>
+    </sub>
+</td>
+
+<td align="center">
+<a href="https://github.com/Roopshali">
+    <img src="https://user-images.githubusercontent.com/75069150/195845223-e9128a23-3d41-46a5-ab40-61ec751ec34f.png" width="100px;" alt=""/>
+    <br />
+    <sub>
+        <b>
+            Roopshali Roy
         </b>
     </sub>
 </td>
