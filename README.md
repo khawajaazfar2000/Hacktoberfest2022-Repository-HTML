@@ -233,6 +233,16 @@ Now add this follwing code snippet (with your github username where required.) a
         </b>
     </sub>
 </td>
+<td align="center">
+<a href="https://github.com/Anshsahu0802">
+    <img src="https://media-exp1.licdn.com/dms/image/C4D03AQE_CTofkPfMdw/profile-displayphoto-shrink_400_400/0/1660828391115?e=1671062400&v=beta&t=wKgtoyoynPdWLhNt7YjJMkXsM946inrmOucrtBoH6lw" width="100px;" alt=""/>
+    <br />
+    <sub>
+        <b>
+            Ansh Sahu
+        </b>
+    </sub>
+</td>
 </tr>
 
 </table>
