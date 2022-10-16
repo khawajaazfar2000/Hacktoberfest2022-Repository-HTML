@@ -5,14 +5,14 @@
 /* You can change the background here. 🎨 */
 #team {
     /* Change this tag color to your choice */
-    background: #415e55;
+    background: #420322;
 
 }
 
 .btn-primary:hover,
 .btn-primary:focus {
-  background-color: #108d6f;
-  border-color: #108d5f;
+  background-color: #2c839b;
+  border-color: #3e565b;
   box-shadow: none;
   outline: none;
 }
@@ -29,7 +29,7 @@ section {
 
 section .section-title {
   text-align: center;
-  color: #007b5e;
+  color: #e886ec;
   margin-bottom: 50px;
   text-transform: uppercase;
 }
@@ -118,12 +118,12 @@ section .section-title {
 
 .backside .card a {
   font-size: 18px;
-  color: #007b5e !important;
+  color: #187086 !important;
 }
 
 .frontside .card .card-title,
 .backside .card .card-title {
-  color: #007b5e !important;
+  color: #67c6e8 !important;
 }
 
 .frontside .card .card-body img {
