@@ -243,6 +243,17 @@ Now add this follwing code snippet (with your github username where required.) a
         </b>
     </sub>
 </td>
+
+<td align="center">
+<a href="https://github.com/rishuriya">
+    <img src="https://avatars.githubusercontent.com/u/85174423?v=4" width="100px;" alt=""/>
+    <br />
+    <sub>
+        <b>
+            Rishav Kumar
+        </b>
+    </sub>
+</td>
 </tr>
 
 </table>
