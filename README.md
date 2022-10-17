@@ -285,5 +285,15 @@ Now add this follwing code snippet (with your github username where required.) a
     </sub>
 </td>
 </tr>
+<td align="center">
+<a href="https://github.com/shiva1217">
+    <img src="https://www.linkedin.com/mwlite/in/shivangi-singh-604aa4226#image-modal" width="100px;" alt=""/>
+    <br />
+    <sub>
+        <b>
+            Shivangi Singh 
+        </b>
+    </sub>
+</td>
 
 </table>
