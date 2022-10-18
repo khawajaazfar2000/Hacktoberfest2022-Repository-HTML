@@ -295,5 +295,15 @@ Now add this follwing code snippet (with your github username where required.) a
         </b>
     </sub>
 </td>
+<td align="center">
+<a href="https://github.com/harsha094">
+    <img src="https://ibb.co/bWPw7sZ" width="100px;" alt=""/>
+    <br />
+    <sub>
+        <b>
+            Harsh Raghuwanshi
+        </b>
+    </sub>
+</td>
 
 </table>
