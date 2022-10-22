@@ -34,10 +34,10 @@ If this happens then you will not get any swags or t-shirt.
 `Add your card to the website. Or add a fun feature...`
 `Anything you feel is cool or weird - Add it! 👌`
 
-- Step 0: [Watch this short video tutorial to get and idea about git and github.](https://www.youtube.com/watch?v=8Dd7KRpKeaE&ab_channel=CoderCoder)
+- Step 1: [Watch this short video tutorial to get and idea about git and github.](https://www.youtube.com/watch?v=8Dd7KRpKeaE&ab_channel=CoderCoder)
   or read [FIRST-CONTRIBUTIONS](https://github.com/firstcontributions/first-contributions)
-- Step 1: Fork [👨‍💻](https://github.com/ShankarLohar/Hactober-Fests/fork) the repository by clicking the top right fork button on github or the emoji in this line.
-- Step 2: Add your name card on the website.
+- Step 2: Fork [👨‍💻](https://github.com/ShankarLohar/Hactober-Fests/fork) the repository by clicking the top right fork button on github or the emoji in this line.
+- Step 3: Add your name card on the website.
 
 ```bash
 Open the index.html file and scroll to the bottom to reach the mark.
@@ -98,35 +98,9 @@ Now add this follwing code snippet. (with your github username where required)
 
 `Save HTML file, Push your code to your forked repository and send a merge request`
 
-- Step 3: Change the background Color of the webpage
 
-```bash
-Open the style.css file and than find the mark to this code snippet and change the color.
-```
 
-```bash
-#team {
-    /* Change this tag color to your choice */
-    background: [YOUR COLOR HEX CODE OR NAME] !important;
-}
-```
-
-`Push your code and send a merge request`
-
-- Step 4: Change navbar color.
-
-```bash
-Open the index.html(changed) file and find the mark to this code snippet and change the color.
-```
-
-```bash
-<!-- Change navbar background color here -->
-    <nav class="navbar navbar-expand-lg navbar-light" style="background-color: [YOUR COLOR HERE];">
-```
-
-`Push your code and send a merge request`
-
-- Step 5: Add your name to the contributers list.
+- Step 4: Add your name to the contributers list.
 
 ```bash
 Open the README.md file and scroll to the bottom to contributers mentions.
