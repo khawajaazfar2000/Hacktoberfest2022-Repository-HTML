@@ -122,9 +122,7 @@ Now add this follwing code snippet (with your github username where required.) a
 
 `Save your file Push your code and send a merge request`
 
-- Additional Step: You can add something to the website of your own! 😊
-  `You know now how it works. 😉`
-- Step 6: Check your [HACKTOBERFEST](https://hacktoberfest.com/) page!
+
 
 ## START CONTRIBUTING 👐
 
