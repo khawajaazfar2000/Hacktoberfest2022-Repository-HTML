@@ -315,5 +315,14 @@ Now add this follwing code snippet (with your github username where required.) a
         </b>
     </sub>
 </td>
-
+<td align="center">
+<a href="https://github.com/MahnoorShoukat">
+    <img src="https://avatars.githubusercontent.com/u/107980805?s=400&v=4" width="100px;" alt=""/>
+    <br />
+    <sub>
+        <b>
+           Mahnoor Shoukat
+        </b>
+    </sub>
+</td>
 </table>
