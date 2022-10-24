@@ -277,6 +277,16 @@ Now add this follwing code snippet (with your github username where required.) a
         </b>
     </sub>
 </td>
+    <td align="center">
+<a href="https://github.com/kashirdotcom">
+    <img src="https://avatars.githubusercontent.com/u/43639867?v=4" width="100px;" alt=""/>
+    <br />
+    <sub>
+        <b>
+            Kashir Hasnain
+        </b>
+    </sub>
+</td>
 <td align="center">
 <a href="https://github.com/aditya7302">
     <img src="https://avatars.githubusercontent.com/u/78435208?s=400&v=4" width="100px;" alt=""/>
