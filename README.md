@@ -109,12 +109,12 @@ Now add this follwing code snippet (with your github username where required.) a
 
 ```bash
 <td align="center">
-<a href="https://github.com/[YOUR GITHUB USERNAME HERE]">
-    <img src="[YOUR PROFILE IMAGE URL]" width="100px;" alt=""/>
+<a href="https://github.com/jesarkamran">
+    <img src="https://avatars.githubusercontent.com/u/101025187?s=400&u=b4e778a610c30006571335793774801613cb8a25&v=4" width="100px;" alt=""/>
     <br />
     <sub>
         <b>
-            [YOUR NAME HERE]
+            [Kamran Jesar]
         </b>
     </sub>
 </td>
