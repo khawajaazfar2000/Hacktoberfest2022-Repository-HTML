@@ -37,7 +37,7 @@ section .section-title {
 }
 section .section-title:hover {
  
-  background-color: red;
+  background-color: rgb(40, 162, 238);
   color: #fff;
   transition: 0.9s;
   font-size: large;
