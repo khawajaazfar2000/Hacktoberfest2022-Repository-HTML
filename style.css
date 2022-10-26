@@ -5,7 +5,7 @@
 /* You can change the background here. 🎨 */
 #team {
     /* Change this tag color to your choice */
-    background: black;
+    background: rgb(43, 5, 5);
 
 }
 
@@ -18,7 +18,7 @@
 }
 
 .btn-primary {
-  color: #fff;
+  color: rgb(253, 247, 247);
   background-color: #007b5e;
   border-color: #007b5e;
 }
@@ -32,7 +32,21 @@ section .section-title {
   color: #e886ec;
   margin-bottom: 50px;
   text-transform: uppercase;
+  cursor: pointer;
+
 }
+section .section-title:hover {
+ 
+  background-color: red;
+  color: #fff;
+  transition: 0.9s;
+  font-size: large;
+
+}
+
+
+
+
 
 #team .card {
   border: none;
@@ -82,7 +96,7 @@ section .section-title {
   position: absolute;
   top: 0;
   left: 0;
-  background: white;
+  background: rgb(253, 249, 249);
   -webkit-transform: rotateY(-180deg);
   -moz-transform: rotateY(-180deg);
   -o-transform: rotateY(-180deg);
@@ -118,12 +132,13 @@ section .section-title {
 
 .backside .card a {
   font-size: 18px;
-  color: #187086 !important;
+  color: #000506 !important;
 }
 
 .frontside .card .card-title,
 .backside .card .card-title {
-  color: #67c6e8 !important;
+  color: #056e10 !important;
+  text-shadow: #ee4406;
 }
 
 .frontside .card .card-body img {
