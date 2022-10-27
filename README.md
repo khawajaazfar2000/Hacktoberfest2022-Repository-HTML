@@ -133,7 +133,7 @@ Now add this follwing code snippet (with your github username where required.) a
 <table>
     <td align="center">
 <a href="https://github.com/Pratikshaekbote">
-    <img src="https://avatars.githubusercontent.com/u/101025187?s=400&u=b4e778a610c30006571335793774801613cb8a25&v=4" width="100px;" alt=""/>
+    <img src="" width="100px;" alt=""/>
     <br />
     <sub>
         <b>
