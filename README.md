@@ -138,6 +138,7 @@ Now add this follwing code snippet (with your github username where required.) a
          <br />
         <sub> <b>Khawaja Azfar</b> </sub>
      </td>
+            
 
 <td align="center">
 <a href="https://github.com/muji-asif">
@@ -297,6 +298,18 @@ Now add this follwing code snippet (with your github username where required.) a
         </b>
     </sub>
 </td>
+                                                                                         
+<td align="center">
+<a href="https://github.com/Pratikshaekbote">
+    <img src="https://avatars.githubusercontent.com/u/80769944?v=4" width="100px;" alt=""/>
+    <br />
+    <sub>
+        <b>
+            Pratiksha Ekbote                                                                     
+</b>
+    </sub>
+</td>
+                                                                                         
 <td align="center">
 <a href="https://github.com/alisezisli">
     <img src="https://avatars.githubusercontent.com/u/9167371?v=4" width="100px;" alt=""/>
@@ -304,6 +317,7 @@ Now add this follwing code snippet (with your github username where required.) a
     <sub>
         <b>
             Ali Sezişli
+
         </b>
     </sub>
 </td>
