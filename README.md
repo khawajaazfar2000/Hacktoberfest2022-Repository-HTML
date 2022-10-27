@@ -298,13 +298,26 @@ Now add this follwing code snippet (with your github username where required.) a
         </b>
     </sub>
 </td>
+                                                                                         
 <td align="center">
 <a href="https://github.com/Pratikshaekbote">
     <img src="https://avatars.githubusercontent.com/u/80769944?v=4" width="100px;" alt=""/>
     <br />
     <sub>
         <b>
-            Pratiksha Ekbote
+            Pratiksha Ekbote                                                                     
+</b>
+    </sub>
+</td>
+                                                                                         
+<td align="center">
+<a href="https://github.com/alisezisli">
+    <img src="https://avatars.githubusercontent.com/u/9167371?v=4" width="100px;" alt=""/>
+    <br />
+    <sub>
+        <b>
+            Ali Sezişli
+
         </b>
     </sub>
 </td>
