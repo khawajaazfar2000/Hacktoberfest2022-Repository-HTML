@@ -131,16 +131,6 @@ Now add this follwing code snippet (with your github username where required.) a
 ## Thank you ❤!
 
 <table>
-    <td align="center">
-<a href="https://github.com/Pratikshaekbote">
-    <img src="https://avatars.githubusercontent.com/u/80769944?v=4" width="100px;" alt=""/>
-    <br />
-    <sub>
-        <b>
-            [Pratiksha Ekbote]
-        </b>
-    </sub>
-</td>
     <tr>
         <td align="center">
            <a href="https://github.com/khawajaazfar2000">
@@ -305,6 +295,16 @@ Now add this follwing code snippet (with your github username where required.) a
     <sub>
         <b>
             Sergio Matamala
+        </b>
+    </sub>
+</td>
+<td align="center">
+<a href="https://github.com/Pratikshaekbote">
+    <img src="https://avatars.githubusercontent.com/u/80769944?v=4" width="100px;" alt=""/>
+    <br />
+    <sub>
+        <b>
+            Pratiksha Ekbote
         </b>
     </sub>
 </td>
