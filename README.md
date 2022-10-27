@@ -321,4 +321,15 @@ Now add this follwing code snippet (with your github username where required.) a
         </b>
     </sub>
 </td>
+
+<td align="center">
+<a href="https://github.com/berikasener">
+    <img src="https://lh3.googleusercontent.com/AmKSpZt_rynhOO0ID1eS0gqeW3DFzoH6KNZkAAgepQ0t9MDRQTmil-nlY5GqkZ_7El0=s180" width="100px;" alt=""/>
+    <br />
+    <sub>
+        <b>
+            Berika ŞENER
+        </b>
+    </sub>
+</td>
 </table>
