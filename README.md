@@ -109,12 +109,12 @@ Now add this follwing code snippet (with your github username where required.) a
 
 ```bash
 <td align="center">
-<a href="https://github.com/[YOUR GITHUB USERNAME HERE]">
-    <img src="[YOUR PROFILE IMAGE URL]" width="100px;" alt=""/>
+<a href="https://github.com/jesarkamran">
+    <img src="https://avatars.githubusercontent.com/u/101025187?s=400&u=b4e778a610c30006571335793774801613cb8a25&v=4" width="100px;" alt=""/>
     <br />
     <sub>
         <b>
-            [YOUR NAME HERE]
+            [Kamran Jesar]
         </b>
     </sub>
 </td>
@@ -138,6 +138,7 @@ Now add this follwing code snippet (with your github username where required.) a
          <br />
         <sub> <b>Khawaja Azfar</b> </sub>
      </td>
+            
 
 <td align="center">
 <a href="https://github.com/muji-asif">
@@ -287,5 +288,37 @@ Now add this follwing code snippet (with your github username where required.) a
         </b>
     </sub>
 </td>
+<td align="center">
+<a href="https://github.com/mvpsdvlpr>
+    <img src="https://avatars.githubusercontent.com/u/65572029?v=4" width="100px;" alt=""/>
+    <br />
+    <sub>
+        <b>
+            Sergio Matamala
+        </b>
+    </sub>
+</td>
+                                                                                         
+<td align="center">
+<a href="https://github.com/Pratikshaekbote">
+    <img src="https://avatars.githubusercontent.com/u/80769944?v=4" width="100px;" alt=""/>
+    <br />
+    <sub>
+        <b>
+            Pratiksha Ekbote                                                                     
+</b>
+    </sub>
+</td>
+                                                                                         
+<td align="center">
+<a href="https://github.com/alisezisli">
+    <img src="https://avatars.githubusercontent.com/u/9167371?v=4" width="100px;" alt=""/>
+    <br />
+    <sub>
+        <b>
+            Ali Sezişli
 
+        </b>
+    </sub>
+</td>
 </table>
