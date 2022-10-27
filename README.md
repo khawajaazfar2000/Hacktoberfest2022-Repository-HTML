@@ -98,8 +98,6 @@ Now add this follwing code snippet. (with your github username where required)
 
 `Save HTML file, Push your code to your forked repository and send a merge request`
 
-
-
 - Step 4: Add your name to the contributers list.
 
 ```bash
@@ -122,8 +120,6 @@ Now add this follwing code snippet (with your github username where required.) a
 
 `Save your file Push your code and send a merge request`
 
-
-
 ## START CONTRIBUTING 👐
 
 - List of beginner repositories: [UP-FOR-GRABS.NET](https://up-for-grabs.net/#/)
@@ -138,7 +134,7 @@ Now add this follwing code snippet (with your github username where required.) a
          <br />
         <sub> <b>Khawaja Azfar</b> </sub>
      </td>
-            
+
 
 <td align="center">
 <a href="https://github.com/muji-asif">
@@ -317,7 +313,18 @@ Now add this follwing code snippet (with your github username where required.) a
     <sub>
         <b>
             Ali Sezişli
+        </b>
+    </sub>
 
+</td>
+
+<td align="center">
+<a href="https://github.com/pradhyumanarora">
+    <img src="https://github.com/pradhyumanarora.png" width="100px;" alt=""/>
+    <br />
+    <sub>
+        <b>
+           Pradhyuman Arora
         </b>
     </sub>
 </td>
