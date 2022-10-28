@@ -98,27 +98,15 @@ Now add this follwing code snippet. (with your github username where required)
 
 `Save HTML file, Push your code to your forked repository and send a merge request`
 
-- Step 4: Add your name to the contributers list.
+<<<<<<< HEAD
 
-```bash
-Open the README.md file and scroll to the bottom to contributers mentions.
-Now add this follwing code snippet (with your github username where required.) at the mark.
-```
+- # Step 4: Add your name to the contributers list.
 
-```bash
-<td align="center">
-<a href="https://github.com/jesarkamran">
-    <img src="https://avatars.githubusercontent.com/u/101025187?s=400&u=b4e778a610c30006571335793774801613cb8a25&v=4" width="100px;" alt=""/>
-    <br />
-    <sub>
-        <b>
-            [Kamran Jesar]
-        </b>
-    </sub>
-</td>
-```
+> > > > > > > 22b7a8b23769408043a2b6e8c6e7c6d669e4d7d3
 
-`Save your file Push your code and send a merge request`
+# <<<<<<< HEAD
+
+> > > > > > > 22b7a8b23769408043a2b6e8c6e7c6d669e4d7d3
 
 ## START CONTRIBUTING 👐
 
@@ -135,7 +123,6 @@ Now add this follwing code snippet (with your github username where required.) a
         <sub> <b>Khawaja Azfar</b> </sub>
      </td>
 
-
 <td align="center">
 <a href="https://github.com/muji-asif">
     <img src="https://avatars.githubusercontent.com/u/115453222?v=4" width="100px;" alt=""/>
@@ -148,6 +135,18 @@ Now add this follwing code snippet (with your github username where required.) a
 </td>
 
 <!-- Add your snippet here -->
+
+<td align="center">
+<a href="https://github.com/rani620">
+    <img src="https://media-exp1.licdn.com/dms/image/C4D03AQHDbgEBcpAg6g/profile-displayphoto-shrink_800_800/0/1663407546946?e=1672272000&v=beta&t=r2j5T3MtDvXLQhLnpkORqRj6dIvOVVX7KfSgX8etVAo" width="100px;" alt=""/>
+    <br />
+    <sub>
+        <b>
+            Rani Kumari
+        </b>
+    </sub>
+</td>
+
 <td align="center">
 <a href="https://github.com/lsgdefault">
     <img src="https://i.postimg.cc/sXyzfwVW/white-20220814-140433.jpg" width="100px;" alt=""/>
@@ -325,6 +324,17 @@ Now add this follwing code snippet (with your github username where required.) a
     <sub>
         <b>
            Pradhyuman Arora
+        </b>
+    </sub>
+</td>
+
+<td align="center">
+<a href="https://github.com/berikasener">
+    <img src="https://lh3.googleusercontent.com/AmKSpZt_rynhOO0ID1eS0gqeW3DFzoH6KNZkAAgepQ0t9MDRQTmil-nlY5GqkZ_7El0=s180" width="100px;" alt=""/>
+    <br />
+    <sub>
+        <b>
+            Berika ŞENER
         </b>
     </sub>
 </td>
