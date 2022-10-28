@@ -100,27 +100,7 @@ Now add this follwing code snippet. (with your github username where required)
 
 
 
-- Step 4: Add your name to the contributers list.
 
-```bash
-Open the README.md file and scroll to the bottom to contributers mentions.
-Now add this follwing code snippet (with your github username where required.) at the mark.
-```
-
-```bash
-<td align="center">
-<a href="https://github.com/jesarkamran">
-    <img src="https://avatars.githubusercontent.com/u/101025187?s=400&u=b4e778a610c30006571335793774801613cb8a25&v=4" width="100px;" alt=""/>
-    <br />
-    <sub>
-        <b>
-            [Kamran Jesar]
-        </b>
-    </sub>
-</td>
-```
-
-`Save your file Push your code and send a merge request`
 
 ## Screenshot of web page
 
