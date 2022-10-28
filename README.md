@@ -126,9 +126,11 @@ Now add this follwing code snippet (with your github username where required.) a
 
 <p align="left"><img src="https://raw.githubusercontent.com/rani620/Hacktoberfest-web/8afefb9a6e0eed3d1793074a8658ed0a422b101e/screenshot/web%20hack1.png
 
-" alt="android" width="220" height="500"/>
+" alt="android" width="700" height="500"/>
 <img src="https://raw.githubusercontent.com/rani620/Hacktoberfest-web/8afefb9a6e0eed3d1793074a8658ed0a422b101e/screenshot/web%20hack2.png
-" alt="android" width="220" height="500"/>
+" alt="android" width="700" height="500"/>
+    
+    </p>
 
 ## START CONTRIBUTING 👐
 
