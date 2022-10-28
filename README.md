@@ -122,7 +122,15 @@ Now add this follwing code snippet (with your github username where required.) a
 
 `Save your file Push your code and send a merge request`
 
+## Screenshot of web page
 
+<p align="left"><img src="https://raw.githubusercontent.com/rani620/Hacktoberfest-web/8afefb9a6e0eed3d1793074a8658ed0a422b101e/screenshot/web%20hack1.png
+" alt="android" width="500" height="500"/>
+<img src="https://raw.githubusercontent.com/rani620/Hacktoberfest-web/8afefb9a6e0eed3d1793074a8658ed0a422b101e/screenshot/web%20hack2.png
+" alt="android" width="500" height="500"/>
+</p>
+    
+  
 
 ## START CONTRIBUTING 👐
 
@@ -152,6 +160,22 @@ Now add this follwing code snippet (with your github username where required.) a
 </td>
 
 <!-- Add your snippet here -->
+
+
+<td align="center">
+<a href="https://github.com/rani620">
+    <img src="https://media-exp1.licdn.com/dms/image/C4D03AQHDbgEBcpAg6g/profile-displayphoto-shrink_800_800/0/1663407546946?e=1672272000&v=beta&t=r2j5T3MtDvXLQhLnpkORqRj6dIvOVVX7KfSgX8etVAo" width="100px;" alt=""/>
+    <br />
+    <sub>
+        <b>
+            Rani Kumari
+        </b>
+    </sub>
+</td>
+
+
+
+
 <td align="center">
 <a href="https://github.com/lsgdefault">
     <img src="https://i.postimg.cc/sXyzfwVW/white-20220814-140433.jpg" width="100px;" alt=""/>
